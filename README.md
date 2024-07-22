@@ -1,5 +1,5 @@
 <p align="center">
-<a href="//Kazumi.xyz.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=Kazumi%20&description=No%20inporta%20cuantas%20veces%20tenga%20que%20morir%20siempre%20me%20enamórate%20de%20ti&image=https://avatars.githubusercontent.com/Kazumi.xyz&usqp=CAU&backgroundColor=%23ecf0f1&github=Kazumi.xyz&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
+<a href="//Kazumi258.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=Kazumi%20&description=No%20inporta%20cuantas%20veces%20tenga%20que%20morir%20siempre%20me%20enamórate%20de%20ti&image=https://avatars.githubusercontent.com/Kazumi.xyz&usqp=CAU&backgroundColor=%23ecf0f1&github=Kazumi.xyz&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
 </p>
 
 <p align="center">
@@ -12,5 +12,5 @@
 
 ## Visitas
 <p align="center">
-<p align="center"><img src="https://count.getloli.com/get/@Kazumi.xyz-github-readme?theme=rule34" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@Kazumi258-github-readme?theme=rule34" /></p>
 </p>
