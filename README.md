@@ -1,5 +1,5 @@
 <p align="center">
-<a href="//Kazumi258.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=Kai%20&description=No%20inporta%20cuantas%20veces%20tenga%20que%20morir%20siempre%20me%20enamórate%20de%20ti&image=https://avatars.githubusercontent.com/Kazumi258&usqp=CAU&backgroundColor=%23ecf0f1&github=Kazumi&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
+<a href="//Kazumi258.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=Kai%20&description=No%20inporta%20cuantas%20veces%20tenga%20que%20morir%20siempre%20me%20enamórate%20de%20ti&image=https://avatars.githubusercontent.com/Kazumi258&usqp=CAU&backgroundColor=%23ecf0f1&github=Kai&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
 </p>
 
 <p align="center">
