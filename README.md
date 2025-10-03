@@ -1,13 +1,13 @@
 <!-- 🧠 Cabecera con estilo -->
 <h1 align="center">🚀 Kai Lest Coders</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2C3E50&center=true&vCenter=true&lines=🤖+Developer;🧠+Thinker;⚡+Innovator;🚀+Code+Never+Dies" />
+   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=000000&center=true&vCenter=true&lines=🤖+Developer;🧩+Mecatrónica+Automotriz;⚡+Innovador+Tech;🚀+Code+Never+Dies" />
 </p>
 
 <!-- 💻 Tarjeta de presentación -->
 <p align="center">
 <a href="https://Kazumi258.my.id">
-  <img src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders&description=Creando%20soluciones%20inteligentes%20con%20código%20y%20pasión&image=https://avatars.githubusercontent.com/Kazumi258&backgroundColor=%23ffffff&github=Kai&pattern=topography&colorPattern=%23dfe6e9&site=Kazumi258.my.id"/>
+  <img src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders&description=Transformando%20ideas%20en%20tecnología%20real&image=https://avatars.githubusercontent.com/Kazumi258&backgroundColor=%23ffffff&github=Kai&pattern=plusGrid&colorPattern=%23dfe6e9&site=🌐%20Visita%20mi%20web%20Kazumi258.my.id"/>
 </a>
 </p>
 
@@ -34,8 +34,8 @@
 
 ---
 
-<!-- ⚡ Stats nivel cerebro -->
-## 🧠 Sistema de inteligencia Kai
+<!-- ⚡ Stats nivel laboratorio -->
+## 🚀 Laboratorio Kai Lest Coders
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kazumi258&show_icons=true&theme=default&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazumi258&theme=default&hide_border=true" height="165"/>
@@ -48,7 +48,7 @@
 ---
 
 <!-- 🏆 Trofeos -->
-## 🏆 Logros del sistema
+## 🏆 Logros del laboratorio
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kazumi258&theme=flat&no-frame=true&row=1&column=6" />
 </p>
@@ -56,7 +56,7 @@
 ---
 
 <!-- 🌌 Gráfico contribuciones -->
-## 🔥 Actividad del cerebro
+## 🔥 Actividad neuronal
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazumi258&theme=github-light" />
 </p>
