@@ -7,7 +7,7 @@
 <!-- 💻 Tarjeta de presentación -->
 <p align="center">
 <a href="https://Kazumi258.my.id">
-  <img src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders&description=Creando%20soluciones%20inteligentes%20con%20código%20y%20pasión&image=https://avatars.githubusercontent.com/Kazumi258&backgroundColor=%23ffffff&github=Kai&pattern=topography&colorPattern=%23dfe6e9&site=🌐%20Visita%20mi%20web%20Kazumi258.my.id"/>
+  <img src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders&description=Creando%20soluciones%20inteligentes%20con%20código%20y%20pasión&image=https://avatars.githubusercontent.com/Kazumi258&backgroundColor=%23ffffff&github=Kai&pattern=topography&colorPattern=%23dfe6e9&site=Kazumi258.my.id"/>
 </a>
 </p>
 
