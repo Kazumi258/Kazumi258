@@ -1,6 +1,7 @@
-<p align="center">
-<a href="//Kazumi258.my.id"><img align="center" src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders%20&description=No%20inporta%20cuantas%20veces%20tenga%20que%20morir%20siempre%20me%20enamórate%20de%20ti&image=https://avatars.githubusercontent.com/Kazumi258&usqp=CAU&backgroundColor=%23ecf0f1&github=Kai&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/></a>
-</p>
+<a href="//Kazumi258.my.id">
+  <img align="center" src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders%20&description=Creando%20código%20con%20pasión%20y%20rompiendo%20límites&image=https://avatars.githubusercontent.com/Kazumi258&usqp=CAU&backgroundColor=%23ecf0f1&github=Kai&pattern=ticTacToe&colorPattern=%23eaeaea&site=Sígueme%20en%20mis%20redes%20sociales"/>
+</a>
+
 
 <p align="center">
   <a href="https://instagram.com/jcristianmf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
