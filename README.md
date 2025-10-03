@@ -1,20 +1,22 @@
 <!-- 🧠 Cabecera con estilo -->
-<h1 align="center">Kai Lest Coders</h1>
+<h1 align="center">🚀 Kai Lest Coders</h1>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2C3E50&center=true&vCenter=true&lines=🤖+Developer;🧠+Thinker;⚡+Innovator;🚀+Code+Never+Dies" />
 </p>
 
 <!-- 💻 Tarjeta de presentación -->
+<p align="center">
 <a href="https://Kazumi258.my.id">
-  <img align="center" src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders&description=Creando%20soluciones%20inteligentes%20con%20código%20y%20pasión&image=https://avatars.githubusercontent.com/Kazumi258&backgroundColor=%23ecf0f1&github=Kai&pattern=plusGrid&colorPattern=%23bdc3c7&site=Sígueme%20en%20mis%20redes%20sociales"/>
+  <img src="https://cardivo.vercel.app/api?name=Kai%20Lest%20Coders&description=Creando%20soluciones%20inteligentes%20con%20código%20y%20pasión&image=https://avatars.githubusercontent.com/Kazumi258&backgroundColor=%23ffffff&github=Kai&pattern=topography&colorPattern=%23dfe6e9&site=🌐%20Visita%20mi%20web%20Kazumi258.my.id"/>
 </a>
+</p>
 
 ---
 
 <!-- 🌐 Redes sociales -->
 <p align="center">
   <a href="https://instagram.com/jcristianmf">
-    <img src="https://img.shields.io/badge/Instagram-ff006f?style=for-the-badge&logo=instagram&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   </a>
   <a href="https://wa.me/+51">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -35,12 +37,12 @@
 <!-- ⚡ Stats nivel cerebro -->
 ## 🧠 Sistema de inteligencia Kai
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazumi258&show_icons=true&theme=graywhite&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazumi258&theme=graywhite&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kazumi258&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazumi258&theme=default&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumi258&layout=compact&theme=graywhite&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumi258&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -49,6 +51,14 @@
 ## 🏆 Logros del sistema
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kazumi258&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<!-- 🌌 Gráfico contribuciones -->
+## 🔥 Actividad del cerebro
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kazumi258&theme=github-light" />
 </p>
 
 ---
